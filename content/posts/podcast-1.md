@@ -12,6 +12,8 @@ cover:
     hidden: true # only hide on current single page
 ---
 
+{{< audio src="/podcasts/001.mp3" >}}
+
 **마루와 원노가 서초 루비를 다녀왔습니다!!**
 
 Seocho.rb (https://festa.io/events/183)
