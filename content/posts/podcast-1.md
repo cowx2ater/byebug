@@ -16,20 +16,20 @@ cover:
 
 **마루와 원노가 서초 루비를 다녀왔습니다!!**
 
-Seocho.rb (https://festa.io/events/183)
+Seocho.rb [(https://festa.io/events/183)](https://festa.io/events/183)
 
-Seocho.rb 2회 (https://festa.io/my/tickets/event/318)
+Seocho.rb 2회 [(https://festa.io/my/tickets/event/318)](https://festa.io/my/tickets/event/318)
 
-Ruby on Jets (http://rubyonjets.com/)
+Ruby on Jets [(http://rubyonjets.com/)](http://rubyonjets.com/)
 
-AWS Lambda (https://aws.amazon.com/ko/lambda/features/)
+AWS Lambda [(https://aws.amazon.com/ko/lambda/features/)](https://aws.amazon.com/ko/lambda/features/)
 
-리멤버 ROR을 왜 쓰나요? (http://blog.dramancompany.com/2019/03/리멤버-지원자분들이-묻는-질문-top-4/)
+리멤버 ROR을 왜 쓰나요? [(http://blog.dramancompany.com/2019/03/리멤버-지원자분들이-묻는-질문-top-4/)](http://blog.dramancompany.com/2019/03/리멤버-지원자분들이-묻는-질문-top-4/)
 
-bulk_insert gem (https://github.com/jamis/bulk_insert)
+bulk_insert gem [(https://github.com/jamis/bulk_insert)](https://github.com/jamis/bulk_insert)
 
-룩핀 질문리스트 (https://medium.com/lookpin-engineering/rails-서버-개발자-면접-질문리스트-cb2fac5f7447)
+룩핀 질문리스트 [(https://medium.com/lookpin-engineering/rails-서버-개발자-면접-질문리스트-cb2fac5f7447)](https://medium.com/lookpin-engineering/rails-서버-개발자-면접-질문리스트-cb2fac5f7447)
 
 루비 카이기 
 
-우물 128번지 (https://www.facebook.com/cowx2ater/)
+우물 128번지 [(https://www.facebook.com/cowx2ater/)](https://www.facebook.com/cowx2ater/)
