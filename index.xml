@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>byebug - 우리들의 개발 이야기</title>
-    <link>http://example.org/</link>
+    <link>https://cowx2ater.github.io/byebug/</link>
     <description>Recent content on byebug - 우리들의 개발 이야기</description>
     <image>
-      <url>http://example.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://example.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://cowx2ater.github.io/byebug/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://cowx2ater.github.io/byebug/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 13 Jun 2022 16:29:33 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Jun 2022 16:29:33 +0000</lastBuildDate><atom:link href="https://cowx2ater.github.io/byebug/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>#001 Seocho.rb / 루비세미나</title>
-      <link>http://example.org/posts/podcast-1/</link>
+      <link>https://cowx2ater.github.io/byebug/posts/podcast-1/</link>
       <pubDate>Mon, 13 Jun 2022 16:29:33 +0000</pubDate>
       
-      <guid>http://example.org/posts/podcast-1/</guid>
+      <guid>https://cowx2ater.github.io/byebug/posts/podcast-1/</guid>
       <description>마루와 원노가 서초 루비를 다녀왔습니다!!
 Seocho.rb (https://festa.io/events/183)
 Seocho.rb 2회 (https://festa.io/my/tickets/event/318)
