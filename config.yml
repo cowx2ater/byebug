@@ -1,4 +1,4 @@
-baseURL: 'http://example.org/'
+baseURL: "https://cowx2ater.github.io/byebug/"
 title: byebug - 우리들의 개발 이야기
 paginate: 10
 timeZone: "Asia/Seoul"
