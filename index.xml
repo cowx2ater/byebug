@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>byebug - 우리들의 개발 이야기</title>
+    <link>http://example.org/</link>
+    <description>Recent content on byebug - 우리들의 개발 이야기</description>
+    <image>
+      <url>http://example.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://example.org/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 13 Jun 2022 16:29:33 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#001 Seocho.rb / 루비세미나</title>
+      <link>http://example.org/posts/podcast-1/</link>
+      <pubDate>Mon, 13 Jun 2022 16:29:33 +0000</pubDate>
+      
+      <guid>http://example.org/posts/podcast-1/</guid>
+      <description>마루와 원노가 서초 루비를 다녀왔습니다!!
+Seocho.rb (https://festa.io/events/183)
+Seocho.rb 2회 (https://festa.io/my/tickets/event/318)
+Ruby on Jets (http://rubyonjets.com/)
+AWS Lambda (https://aws.amazon.com/ko/lambda/features/)
+리멤버 ROR을 왜 쓰나요? (http://blog.dramancompany.com/2019/03/리멤버-지원자분들이-묻는-질문-top-4/)
+bulk_insert gem (https://github.com/jamis/bulk_insert)
+룩핀 질문리스트 (https://medium.com/lookpin-engineering/rails-서버-개발자-면접-질문리스트-cb2fac5f7447)
+루비 카이기
+우물 128번지 (https://www.facebook.com/cowx2ater/)</description>
+    </item>
+    
+  </channel>
+</rss>
